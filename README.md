@@ -1,4 +1,4 @@
-# Dito Sa Amin
+# DITO SA AMIN (DSA)
 This repository contains all relevant text files and data frames in the completion of Johnson Santos' undergraduate thesis titled "Dito Sa Amin: A Quasi-Experimental Study Tracing Post-Covid-19 Health-Seeking Patterns in Geographically Isolated and Disadvantaged Areas."
 
 ## Included Files
