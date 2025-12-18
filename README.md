@@ -16,6 +16,4 @@ This repository enables the viewer to read through the thesis analysis and repor
 This repository includes the dataframe in a CSV format containing information of anonymized individuals. Any remnants of identifiable information should be reported to the author for immediate takedown.
 
 ### Contact
-Email: jlsantos19@up.edu.ph
-LinkedIn: https://www.linkedin.com/in/johnsonsantos/
-ORCID: https://orcid.org/0009-0002-8113-6390
+Email: jlsantos19@up.edu.ph  LinkedIn: https://www.linkedin.com/in/johnsonsantos/  ORCID: https://orcid.org/0009-0002-8113-6390
