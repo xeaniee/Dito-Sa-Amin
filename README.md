@@ -15,7 +15,7 @@ This repository enables the viewer to read through the thesis analysis and repor
 ## Ethical Thesis Conduct
 This repository includes the dataframe in a CSV format containing information of anonymized individuals. Any remnants of identifiable information should be reported to the author for immediate takedown.
 
-### Contact
+## Contact
 Email: jlsantos19@up.edu.ph
 
 LinkedIn: https://www.linkedin.com/in/johnsonsantos/
