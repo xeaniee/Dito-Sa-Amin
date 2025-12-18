@@ -8,6 +8,7 @@ The following files are contained in this repository:
 - Thesis poster (in PNG format)
 - Analysis script (in R format)
 - Appendices and annexes (in PDF format)
+- Oral defense slides deck (in PDF format)
 
 ## Intended Purpose
 This repository enables the viewer to read through the thesis analysis and report produced by the author. Please note that the outputs contained herein are not for reproduction or reuse without permission. Access to this repository is limited to those provided with it by the author. Unauthorized access will be dealt with in accordance with the IPR Policy of the University of the Philippines Diliman and the thesis rules of the UP National College of Public Administration and Governance.
