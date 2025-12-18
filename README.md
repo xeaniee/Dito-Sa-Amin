@@ -5,7 +5,7 @@ This repository contains all relevant text files and data frames in the completi
 The following files are contained in this repository:
 - Thesis manuscript (in PDF format)
 - Dataframe (in CSV format)
-- Thesis poster (in PDF format)
+- Thesis poster (in PNG format)
 - Analysis script (in R format)
 - Appendices and annexes (in PDF format)
 
